@@ -28,9 +28,9 @@ Matplotlib, Seaborn
 Scikit-learn
 
 Machine Learning Models Used:-
-Logistic Regression ✅
-Random Forest Classifier 🌲
-Support Vector Machine (SVM) 🧠
+Logistic Regression 
+Random Forest Classifier 
+Support Vector Machine (SVM) 
 
 Accuracy:-
 Logistic Regression: ~85% (varies with train/test split)
